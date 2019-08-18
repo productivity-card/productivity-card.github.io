@@ -2,7 +2,7 @@
 page_title                                : Productivity Card                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1476660150                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://www.producthunt.com/upcoming/productivity-card                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.                                          # Enter Google Play Store URL.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.ramenstartup.productivity_card                                          # Enter Google Play Store URL.
