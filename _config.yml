@@ -39,19 +39,23 @@ features                                  :
     fontawesome_icon_name                 : rocket
     
   - title                                 : Daily To-Do
-    description                           : Prepare 3 to 5 most important tasks. Your goal is to complete these by the end of the day.
+    description                           : “It makes you feel more accomplished.”
     fontawesome_icon_name                 : list-alt
 
   - title                                 : Anti To-Do
-    description                           : Each time you do something useful, add it to your Anti To-Do and build momentum to complete a larger task.
+    description                           : “It gives you insight into your work patterns.”
     fontawesome_icon_name                 : check-square
 
   - title                                 : Reminders
-    description                           : You can set reminders to help you build this new habit.
+    description                           : “It helps you build good habits.”
     fontawesome_icon_name                 : bell
 
+  - title                                 : Be Energized
+    description                           : “You get that little rush of endorphins.”
+    fontawesome_icon_name                 : fire
+
   - title                                 : Review and Repeat
-    description                           : At the end of the day, marvel at all the things you got done and prepare 3 to 5 tasks for next day.
+    description                           : “At the end of the day, marvel at all the things you got done and prepare 3 to 5 tasks for next day.”
     fontawesome_icon_name                 : sync-alt
 
   - title                                 : # New Feature Title
